@@ -1,0 +1,27 @@
+# Local secrets and configurations
+config.py
+.env
+.env.*
+*.pem
+*.key
+
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Dependencies and generated artifacts
+node_modules/
+build/
+dist/
+
+# Large archives and backups
+*.tar.gz
+*.zip
+*backup*
+*before*
+
+# Local data and logs
+*.csv
+*.log
